@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header part start */
+.golap-ful{
+    display: flex;
+    background-color: #f4c3e0;
+    height: 100vh;
+}
+.golap-container{
+    align-items: center;
+    margin: 200px;
+}
+.head-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+.head-contain{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px 0;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 25px;
+    border: none;
+    color: white;
+}
+.wing10-img{
+    width: 500px;
+    height: 710px;
+}
+
+
+
+/* header part end */
