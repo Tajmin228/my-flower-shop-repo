@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Lato', sans-serif;
 }
 /* header part start */
 .golap-ful{
@@ -10,18 +11,18 @@
 }
 .golap-container{
     align-items: center;
-    margin: 200px;
+    margin: 150px;
 }
 .head-title{
     color: #272727;
     font-size: 80px;
-    font-weight: 800;
+    font-weight: 700;
 }
 .head-contain{
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    padding-top: 20px 0;
+    margin: 20px 0;
 }
 .btn-primary{
     border-radius: 8px;
@@ -32,9 +33,22 @@
 }
 .wing10-img{
     width: 500px;
-    height: 710px;
+    height: 660px;
+    margin: 50px 150px 0 0;
+}
+/* header part end */
+
+/* mainarea part start */
+
+.bely{
+    text-align: center;
+    margin: 200px 0 50px;
+}
+.head-bely{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 700;
 }
 
 
-
-/* header part end */
+/* mainarea part end */
