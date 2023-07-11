@@ -85,7 +85,7 @@
     display: flex;
     justify-content: space-around;
     border-radius: 8px;
-    background-color: rgb(230, 245, 205);
+    background-color: rgb(214, 221, 246);
     min-height: 200px;
 }
 .flower-info{
@@ -98,6 +98,38 @@
     font-weight: 400;
     padding-top: 20px;
 }
+.jasmine{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 620px;
+    background-color: rgb(235, 246, 204);
+}
+.wing8-img{
+    width: 380px;
+    height: 480x;
+    margin: 80px 150px 0 0;
+}
+.jasmine-container{
+    margin: 120px;
+    padding: 50px;
+}
+.jasmine-title{
+    color: #272727;
+    font-size: 45px;
+    font-weight: 700;
+}
+.jasmine-contain{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.btn{
+    margin-left: 220px;
+}
+    
+
 
 
 /* mainarea part end */
