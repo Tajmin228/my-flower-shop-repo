@@ -80,6 +80,24 @@
     margin: 20px;
     text-decoration: underline;
 }
+.podda{
+    margin: 180px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background-color: rgb(230, 245, 205);
+    min-height: 200px;
+}
+.flower-info{
+    text-align: center;
+    margin: 80px;
+}
+.flower-info-title{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+}
 
 
 /* mainarea part end */
