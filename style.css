@@ -161,6 +161,25 @@
     padding-left: 20px;
 }
 
-
-
 /* mainarea part end */
+
+/* footer-start */
+
+.footer{
+    background-color:#111010;
+    height: 400px;
+}
+.footer-contain{
+    text-align: center;
+    padding-top: 130px;
+}
+.foot{
+    color: rgba(255, 255, 255, 0.90);
+}
+#foot-head{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+/* footer-end */
